@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NayedulAlam
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Python
 - 📫 You can reach me via email- nayedul05@gmail.com
 
 <!---
