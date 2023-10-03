@@ -1,4 +1,4 @@
-# [👋 Hi, I’m @NayedulAlam](https://github.com/NayedulAlam)
+![👋 Hi, I’m @NayedulAlam](https://github.com/NayedulAlam)
 - 🌱 I’m currently learning C++
 - 📫 You can reach me via email- nayedul05@gmail.com
 
