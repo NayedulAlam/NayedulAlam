@@ -1,4 +1,4 @@
-# <div align="centre">[👋 Hi, I’m @NayedulAlam](https://github.com/NayedulAlam)</div>
+# <div style="text-align: center;" markdown="1">[👋 Hi, I’m @NayedulAlam](https://github.com/NayedulAlam)</div>
 - 🌱 I’m currently learning **C++**
 - 👨‍💻 All of my projects are available at https://github.com/NayedulAlam
 - 📫 You can reach me via email- nayedul05@gmail.com
