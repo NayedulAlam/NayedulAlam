@@ -5,13 +5,7 @@
 - ⚡ Fun fact **Nothing 😏**
 
 ### My Social Handles
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-#0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayedul-alam-26b4a6205/)
-[![HackerRank Badge](https://img.shields.io/badge/HackerRank-#00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/nayedul05)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nayedul-alam-26b4a6205/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/NayedulA)
 
 [![An image of @nayedulalam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nayedulalam)](https://holopin.io/@nayedulalam)
-
-<!---
-NayedulAlam/NayedulAlam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
